@@ -1,0 +1,1 @@
+# CuppaCMS-Stored-XSS-via-user-image-upload.
