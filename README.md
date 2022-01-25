@@ -1,4 +1,4 @@
-# CuppaCMS-Stored-XSS-via-user-image-upload.
+# CuppaCMS-Stored-XSS-via-user-image-upload
 Cuppa CMS is vulnerable to Stored XSS via user image upload from user profile in svg format.
 
 ![XSS_SVG-01](https://user-images.githubusercontent.com/10436828/150940660-65d8cb61-4d42-4a35-ad01-741c2c7de47c.png)
